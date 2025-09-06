@@ -1,0 +1,21 @@
+{
+  "name": "react-alternatives",
+  "version": "0.0.0",
+  "description": "A curated collection of the best alternatives to ReactJS from tinyhref.com",
+  "keywords": [
+    "react-alternatives",
+    "alternative",
+    "awesome",
+    "lists",
+    "tinyhref"
+  ],
+  "license": "MIT",
+  "author": {
+    "name": "tinyhref.com",
+    "website": "https://tinyhref.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tinyhref/react-alternatives"
+  }
+}
